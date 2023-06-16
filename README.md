@@ -21,14 +21,14 @@ Framework.
 
    Для Windows:
 
-   ```cmd
+   ```console
    python -m venv .venv
    .venv\Scripts\activate
    ```
 
    Для Linux/Mac:
 
-   ```bush
+   ```console
    python3 -m venv .venv
    source .venv/bin/activate
    ```
